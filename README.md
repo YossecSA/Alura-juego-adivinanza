@@ -1,2 +1,6 @@
-# Alura-juego-adivinanza
-Primer proyecto de Alura, juego de adivinanza, construido con html, css u JS
+# Project Title
+
+## Alura
+Proyecto de Lógica de Programación de Alura, usando HTML, CSS y JavaScript
+
+[pagina web](doc:https://yossecsa.github.io/Alura-juego-adivinanza/)
